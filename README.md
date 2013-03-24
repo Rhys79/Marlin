@@ -1,6 +1,14 @@
 WARNING: 
 --------
-THIS IS RELEASE CANDIDATE 2 FOR MARLIN 1.0.0
+THIS IS NOT A RELEASE PACKAGE!
+
+I have forked from the Marlin firmware in order
+to begin modifications to support the Arduino Due
+and other ARM based motherboards.
+
+THIS CODE IS INCOMPLETE AND COMPLETELY UNTESTED!
+YOU HAVE BEEN WARNED!!!
+
 
 The configuration is now split in two files
 Configuration.h for the normal settings
